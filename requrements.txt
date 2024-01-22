@@ -1,5 +1,1 @@
-cv2
-face_recognition
-os
-numpy
-datetime 
+
