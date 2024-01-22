@@ -52,13 +52,6 @@ The Face Recognition Attendance System is a Python project designed to streamlin
 - face_recognition: [Link to face_recognition](https://github.com/ageitgey/face_recognition)
 - numpy: [Link to numpy](https://numpy.org/)
 
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
