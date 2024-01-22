@@ -82,6 +82,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Author
 
 Jagadeesh Kokkula
+
 [linkedIn](https://www.linkedin.com/in/jagadeeshkokkula/)
+
 [Web Site](https://nani8501.github.io/new.github.io/)
+
 [Git Hub](https://github.com/Nani8501)
